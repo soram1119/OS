@@ -2,5 +2,5 @@
 
 ### information
 * [language]() : c
-* [using enviroment]() : Ubuntu Linux
-* [book]() : Operating System Concepts by Silberschatz,et,al, 9th
+* [enviroment]() : Ubuntu Linux
+* [book]() : Operating System Concepts by Silberschatz 9th
